@@ -33,7 +33,7 @@
   },
   {
     "id": "SKU4001",
-    "name": "Classmate (200 pages)",
+    "name": "Classmate (600 pages)",
     "category": "Stationery",
     "quantity": 500,
     "price": 3.49,
