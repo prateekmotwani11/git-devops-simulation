@@ -33,7 +33,7 @@
   },
   {
     "id": "SKU4001",
-    "name": "Notebook (200 pages)",
+    "name": "Classmate (200 pages)",
     "category": "Stationery",
     "quantity": 500,
     "price": 3.49,
