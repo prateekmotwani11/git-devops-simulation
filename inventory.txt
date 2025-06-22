@@ -1,0 +1,43 @@
+[
+  {
+    "id": "SKU1001",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "quantity": 120,
+    "price": 25.99,
+    "warehouse": "WH-A"
+  },
+  {
+    "id": "SKU1002",
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "quantity": 80,
+    "price": 45.50,
+    "warehouse": "WH-A"
+  },
+  {
+    "id": "SKU2001",
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "quantity": 150,
+    "price": 59.99,
+    "warehouse": "WH-B"
+  },
+  {
+    "id": "SKU3001",
+    "name": "Cotton T-Shirt",
+    "category": "Apparel",
+    "quantity": 300,
+    "price": 14.99,
+    "warehouse": "WH-C"
+  },
+  {
+    "id": "SKU4001",
+    "name": "Notebook (200 pages)",
+    "category": "Stationery",
+    "quantity": 500,
+    "price": 3.49,
+    "warehouse": "WH-D"
+  }
+]
+
